@@ -1,0 +1,7 @@
+main: pl.nehorowo.wallet.WalletPlugin
+name: NeherWallet
+author: nehorowo
+version: 1.1-SNAPSHOT
+api-version: 1.13
+depend:
+  - PlaceholderAPI
